@@ -3,6 +3,7 @@
 Guidelines
 ==========
 
+
 This is the list of attendees for the git & github session.
 Add youself to the list in [attendees.md](https://github.com/parulagg27/Git-workshop/blob/master/attendees.md) (**sorted alphabetically**).
 
